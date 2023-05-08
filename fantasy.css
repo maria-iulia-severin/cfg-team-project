@@ -1,0 +1,15 @@
+
+
+.GFG {
+  background-color: darkolivegreen;
+  border: 2px solid white;
+  color: wheat;
+  padding: 5px 10px;
+  text-align: center;
+  display: inline-block;
+  font-size: 15px;
+  margin: 10px 30px;
+  cursor: pointer;
+  text-decoration:none;
+  border-radius: 10px;
+}
