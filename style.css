@@ -7,15 +7,6 @@ form {
     text-align: center;
   
   }
-
-
-
-
-
-
-
-
-
  
 input[type=text], select, textarea {
   width: 100%; 
@@ -45,7 +36,7 @@ input[type=submit]:hover {
 
 .container {
   border-radius: 5px;
-  background-color: #f2f2f2;
+  background-color: white;
   padding: 20px;
 }
 
